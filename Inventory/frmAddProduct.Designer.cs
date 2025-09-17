@@ -56,9 +56,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.label1.Location = new System.Drawing.Point(41, 73);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 17);
+            this.label1.Size = new System.Drawing.Size(60, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Product Name";
+            this.label1.Text = "Product ";
             // 
             // label2
             // 
@@ -187,7 +187,7 @@
             // 
             // btnAddProduct
             // 
-            this.btnAddProduct.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.btnAddProduct.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btnAddProduct.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAddProduct.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnAddProduct.Location = new System.Drawing.Point(568, 208);
